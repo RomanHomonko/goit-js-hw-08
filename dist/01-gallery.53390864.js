@@ -507,7 +507,6 @@ function hmrAcceptRun(bundle, id) {
 var _galleryItems = require("./gallery-items");
 // Change code below this line
 console.log((0, _galleryItems.galleryItems));
-console.log(`hello its me`);
 
 },{"./gallery-items":"9C7dK"}],"9C7dK":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
